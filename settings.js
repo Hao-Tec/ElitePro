@@ -4,7 +4,7 @@ const chalk = require('chalk')
 // Customize bot info
 global.ytname = "YT: TechMaster" // YouTube channel name
 global.socialm = "GitHub: TechMaster" // GitHub or Instagram name
-global.location = "Port Harcourt, Nigeria" // Your location
+global.location = "Lagos" // Your location
 
 // Basic settings
 global.botname = 'ByteStorm' // Bot name
